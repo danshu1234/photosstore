@@ -1,0 +1,1 @@
+In my previous projects, I used localstorage to store data, which caused a lot of inconvenience. Now I have found the best way to store a large amount of data, and this is IndexedDB.
